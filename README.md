@@ -1,7 +1,6 @@
-﻿# Image-Editor
-https://umar-ashraf09.github.io/Image-Editor/
+﻿# Image Editor
 
-# Image Editor
+[Image Editor](https://umar-ashraf09.github.io/Image-Editor/)
 
 A web application that allows users to apply various filters and flip options to uploaded images. The Image Editor is built using HTML, CSS, and JavaScript.
 
@@ -12,11 +11,11 @@ A web application that allows users to apply various filters and flip options to
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Preview
 
-<!-- Add a preview image link or GIF if available -->
+![Image Editor](https://github.com/Umar-Ashraf09/Image-Editor/assets/92431008/3f5744f8-a4db-4b61-a120-71491a7b5799)
+
 
 ## Technologies Used
 
@@ -33,11 +32,11 @@ A web application that allows users to apply various filters and flip options to
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/image-editor.git`
-2. Open the `index.html` file in your web browser.
+1. Open the [Image Editor](https://umar-ashraf09.github.io/Image-Editor/) web page.
+2. Upload an image using the "Choose An Image" button.
 3. Use the provided range sliders to adjust filter settings.
 4. Choose flip options using the radio buttons.
-5. Upload an image using the "Choose An Image" button and see the live preview.
+5. And see the live preview.
 
 Feel free to customize the application or integrate it into your projects as needed.
 
@@ -50,7 +49,3 @@ If you'd like to contribute to this project, please follow these steps:
 3. Commit your changes: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
