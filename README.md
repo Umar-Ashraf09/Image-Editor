@@ -14,7 +14,7 @@ A web application that allows users to apply various filters and flip options to
 
 ## Preview
 
-![Image Editor](https://github.com/Umar-Ashraf09/Image-Editor/assets/92431008/3f5744f8-a4db-4b61-a120-71491a7b5799)
+![Image Editor](https://github.com/Umar-Ashraf09/Image-Editor/assets/92431008/a4026e3f-6ef5-431f-aaf1-33c09328f8fb)
 
 
 ## Technologies Used
